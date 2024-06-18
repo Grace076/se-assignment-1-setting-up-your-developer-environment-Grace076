@@ -13,15 +13,13 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
-Step 0: Make sure you're ready 
+Step 0
 
 Before you installing Windows 11, you should make sure your PC is ready and that all your personal data is secure.
 First, check that your system can support it. 
 
 
 WHAT DO YOU NEED.
-
-
 
 Windows installation media. This could be an installation ISO or DVD.
 USB flash drive with at least 5GB free space,ensure the flash disk has nothing important since it will be formatted.
